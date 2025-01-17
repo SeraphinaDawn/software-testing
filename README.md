@@ -21,7 +21,7 @@
 
 *   [第一章软件测试基础](./第一章软件测试基础) (第一章学习资料)
 *   [软件测试](./软件测试) (其他测试资料)
-*   [《软件测试》（原书第2版）](./软件测试（原书第2版）(Software Testing, 2nd Edition) ([美] Ron Patton) (Z-Library).pdf)
+*   [《软件测试》（原书第2版）](./软件测试%28原书第2版%29%28Software%20Testing,%202nd%20Edition%29%20%28%5B美%5DRon%20Patton%29%20%28Z-Library%29.pdf)
 
 **关于《软件测试》（Ron Patton 著）的补充说明**
 
